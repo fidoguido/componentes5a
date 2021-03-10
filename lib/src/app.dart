@@ -1,3 +1,4 @@
+import 'package:componentes5a/src/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:componentes5a/src/pages/home_temp.dart';
 
@@ -6,7 +7,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Componentes App',
-      home: HomePageTemp(),
+      home: HomePage(),
       theme: ThemeData(
         brightness: Brightness.dark,
         primaryColor: Colors.lightBlue[800],
