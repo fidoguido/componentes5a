@@ -12,14 +12,14 @@
             "texto": "Avatars"
         },
         {
-            "ruta" : "avatar",
+            "ruta" : "cards",
             "icon" : "folder_open",
             "texto": "Cards - Tarjetas"
         },
         {
-            "ruta" : "avatar",
+            "ruta" : "avatar1",
             "icon" : "folder_open",
-            "texto": "Hola Mundo"
+            "texto": "Hola Mundo1"
         },
         {
             "ruta" : "animater",
